@@ -24,4 +24,4 @@ repos:
         exclude: CronExpression.java
         args:
           - --comment-style
-          - /*| *| */
+          - '/*| *| */'

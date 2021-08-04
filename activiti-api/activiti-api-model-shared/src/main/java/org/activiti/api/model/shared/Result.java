@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 package org.activiti.api.model.shared;
-
+/**这是一个注释*/
 import java.io.Serializable;
 
 public abstract class Result<T> implements Serializable {
